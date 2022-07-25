@@ -1,2 +1,2 @@
 # PersonalWebSite
-https://hasangzc.github.io/PersonalWebSite/
+https://hasangzc.github.io/Personal-Web-Site/
